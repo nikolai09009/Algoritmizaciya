@@ -29,6 +29,15 @@ std::vector<int> sumVectors(const std::vector<int>& vec1, const std::vector<int>
     return result;
 }
 
+std::vector<int> subtractVectors(const std::vector<int>& vec1, const std::vector<int>& vec2) {
+    size_t size = std::min(vec1.size(), vec2.size());
+    std::vector<int> result(size);
+    for (size_t i = 0; i < size; ++i) {
+        result[i] = vec1[i] - vec2[i];  // Суммируем соответствующие элементы
+    }
+    return result;
+}
+
 void printVector(const std::vector<int>& vec) {
     for (int value : vec) {
         std::cout << value << " ";
@@ -44,9 +53,12 @@ int main() {
         std::vector<int> data2 = readDataFromFile("file2.txt");
 
         std::vector<int> sum = sumVectors(data1, data2);
+        std::vector<int> subt = subtractVectors(data1, data2);
 
         std::cout << "Сумма векторов: ";
         printVector(sum);
+        std::cout << "Разность векторов: ";
+        printVector(subt);
     }
     catch (const std::runtime_error& e) {
         std::cerr << e.what() << std::endl;
