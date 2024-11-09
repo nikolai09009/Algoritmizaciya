@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21163\\laba3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EE010C-1F80-4806-900E-A953AF86EEF5}|laba3\\laba3.vcxproj|C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21163\\laba3\\laba3\\laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EE010C-1F80-4806-900E-A953AF86EEF5}|laba3\\laba3.vcxproj|solutionrelative:laba3\\laba3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba3.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21163\\laba3\\laba3\\laba3.cpp",
+              "RelativeDocumentMoniker": "laba3\\laba3.cpp",
+              "ToolTip": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21163\\laba3\\laba3\\laba3.cpp",
+              "RelativeToolTip": "laba3\\laba3.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0IAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T20:25:24.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -38,6 +38,17 @@ std::vector<int> subtractVectors(const std::vector<int>& vec1, const std::vector
     return result;
 }
 
+int multiplicationVectors(const std::vector<int>& vec1, const std::vector<int>& vec2) {
+    size_t size = std::min(vec1.size(), vec2.size());
+    std::vector<int> result(size);
+    int mp_Vector = 0;
+    for (size_t i = 0; i < size; ++i) {
+        mp_Vector += vec1[i] * vec2[i];  // Суммируем соответствующие элементы
+    }
+    return mp_Vector;
+}
+
+
 void printVector(const std::vector<int>& vec) {
     for (int value : vec) {
         std::cout << value << " ";
@@ -54,11 +65,14 @@ int main() {
 
         std::vector<int> sum = sumVectors(data1, data2);
         std::vector<int> subt = subtractVectors(data1, data2);
+        int multuplic = multiplicationVectors(data1, data2);
 
         std::cout << "Сумма векторов: ";
         printVector(sum);
         std::cout << "Разность векторов: ";
         printVector(subt);
+        std::cout << "Скалярное проивзедение: ";
+        std::cout << multuplic << std::endl;
     }
     catch (const std::runtime_error& e) {
         std::cerr << e.what() << std::endl;
