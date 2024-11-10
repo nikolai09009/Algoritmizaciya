@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21165\\laba5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCFC7C3-57C1-4735-968F-C4AD1EC8664E}|laba5\\laba5.vcxproj|C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21165\\laba5\\laba5\\laba5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCFC7C3-57C1-4735-968F-C4AD1EC8664E}|laba5\\laba5.vcxproj|solutionrelative:laba5\\laba5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba5.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21165\\laba5\\laba5\\laba5.cpp",
+              "RelativeDocumentMoniker": "laba5\\laba5.cpp",
+              "ToolTip": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21165\\laba5\\laba5\\laba5.cpp",
+              "RelativeToolTip": "laba5\\laba5.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T18:30:26.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
