@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21167\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5B23C5-D204-4809-89BA-C1924FD31F7E}|lab7\\lab7.vcxproj|C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21167\\lab7\\lab7\\lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF5B23C5-D204-4809-89BA-C1924FD31F7E}|lab7\\lab7.vcxproj|solutionrelative:lab7\\lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "throw_bad_alloc.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T08:19:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab7.cpp",
+              "DocumentMoniker": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21167\\lab7\\lab7\\lab7.cpp",
+              "RelativeDocumentMoniker": "lab7\\lab7.cpp",
+              "ToolTip": "C:\\Users\\Nikolai\\Desktop\\\u043B\u0430\u0431\u044B \u043F\u043E \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438\\Algoritmizaciya\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u21167\\lab7\\lab7\\lab7.cpp",
+              "RelativeToolTip": "lab7\\lab7.cpp",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv5sAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T06:18:11.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
