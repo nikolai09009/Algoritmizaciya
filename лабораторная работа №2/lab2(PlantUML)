@@ -1,0 +1,16 @@
+@startuml
+start
+
+:Вывод "Input x:";
+:Считывание x;
+
+if (x > 20?) then (да)
+    :y = -1;
+else (нет)
+    :y = 5;
+endif
+
+:Вывод "y = " + y;
+
+stop
+@enduml
